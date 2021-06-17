@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image](https://picsum.photos/id/870/200/300?grayscale&blur=2)
